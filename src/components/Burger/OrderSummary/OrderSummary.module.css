@@ -1,0 +1,17 @@
+.btn {
+    display: block;
+    font: inherit;
+    margin: 0 5px;
+    border: 1px solid #AA6817;
+    cursor: pointer;
+    outline: none;
+    background-color: #D39952;
+    color: white;
+    float: right;
+    border-radius: 10%;
+}
+
+.btn:hover, .btn:active {  
+    background-color: #DAA972;
+    color: white;
+}
